@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/user_register_react_app/static/css/main.1910728b.css",
+    "main.js": "/user_register_react_app/static/js/main.5770b14c.js",
+    "static/media/kareem_azzam.png": "/user_register_react_app/static/media/kareem_azzam.301d06a3a6368ac4debd.png",
+    "index.html": "/user_register_react_app/index.html",
+    "main.1910728b.css.map": "/user_register_react_app/static/css/main.1910728b.css.map",
+    "main.5770b14c.js.map": "/user_register_react_app/static/js/main.5770b14c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1910728b.css",
+    "static/js/main.5770b14c.js"
+  ]
+}
